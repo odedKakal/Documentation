@@ -15,6 +15,6 @@
 ---
 **ועדות**
 <details align="right">
-  <summary align="right">שורת חיפוש</summary>
+  <summary>שורת חיפוש</summary>
   פה יהיה כפתור
 </details>
