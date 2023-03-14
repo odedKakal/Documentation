@@ -2,8 +2,9 @@
 
 ---
 
-<span style="color: red">ASD</span>
-<div style="color: rgb(10, 10, 10)">hi</div>
+```diff
++vh
+```
 
 **עמוד ראשי**
 
