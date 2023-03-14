@@ -2,7 +2,7 @@
 
 ---
 
-<span style="color: red;">עמוד ראשי</span>
+<span style="color: red">עמוד ראשי</span>
 
 **עמוד ראשי**
 
