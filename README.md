@@ -14,7 +14,7 @@
 
 ---
 **ועדות**
-<details>
+ב. <details>
   א. <summary>שורת חיפוש</summary>
   פה יהיה כפתור
 </details>
